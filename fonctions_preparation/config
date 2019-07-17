@@ -1,0 +1,10 @@
+######## Instructions #########
+# Format du fichier: [NOM_DE_LA_BALISE]:numero a encoder pour la balise
+# Exemple: [BAUX]:1 tous les documents avec la balise [BAUX] seront la classe 1
+# Toutes les balises qui n'apparaissent pas dans la liste ci-dessous seront représentées par le numero 0
+# Attention :
+#    - Ne pas utiliser le numero 0 il est reservé par defaut pour toutes les balises qui n'apparaissent pas dans la liste ci-dessous.
+#    - Ne mettre aucun saut de ligne ou espace entre le nom de la balise et le numero
+#    - Respecter exactement le format des exemples sinon toutes les classes seront considérées comme des 0
+#     - L'ID de la balise doit etre le meme que la ref Balise sur la dataroom
+###############################
